@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "6646d9031415194c64769259"
+  },
+  "order_code": "",
+  "to_ward_code": "80211",
+  "to_district_id": 2264,
+  "cancelOrder": true,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674514"
+      },
+      "name": "Apple Watch SE LTE 44mm viền nhôm dây silicone",
+      "salePrice": 8000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/229059/apple-watch-se-lte-44mm-vien-nhom-day-cao-su-den-1-2-600x600.jpg",
+      "qty": "1"
+    }
+  ],
+  "shippingAddress": {
+    "province": "Lào Cai",
+    "district": "Huyện Xi Ma Cai (test)",
+    "ward": "Xã Si Ma Cai",
+    "detail": "73/18",
+    "name": "duy",
+    "phone": "0343575027"
+  },
+  "paymentMethod": "payOnline",
+  "totalPrice": 8000000,
+  "status": "pendding",
+  "name": "duy",
+  "user": {
+    "$oid": "6646d8b61415194c64769234"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T04:11:47.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-17T17:34:26.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646d9031415194c64769256"
+  },
+  "order_code": "",
+  "to_ward_code": "80211",
+  "to_district_id": 2264,
+  "cancelOrder": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674514"
+      },
+      "name": "Apple Watch SE LTE 44mm viền nhôm dây silicone",
+      "salePrice": 8000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/229059/apple-watch-se-lte-44mm-vien-nhom-day-cao-su-den-1-2-600x600.jpg",
+      "qty": "1"
+    }
+  ],
+  "shippingAddress": {
+    "province": "Lào Cai",
+    "district": "Huyện Xi Ma Cai (test)",
+    "ward": "Xã Si Ma Cai",
+    "detail": "73/18",
+    "name": "duy",
+    "phone": "0343575027"
+  },
+  "paymentMethod": "payOnline",
+  "totalPrice": 8000000,
+  "status": "pendding",
+  "name": "duy",
+  "user": {
+    "$oid": "6646d8b61415194c64769234"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T04:11:47.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-17T04:11:47.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6647160fc94fcf0740d91ed9"
+  },
+  "order_code": "",
+  "to_ward_code": "220911",
+  "to_district_id": 2046,
+  "cancelOrder": true,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c67452a"
+      },
+      "name": "ĐỒNG HỒ NAM CHÍNH HÃNG IW CARNIVAL 529G9",
+      "salePrice": 7000000,
+      "image": "https://bizweb.dktcdn.net/100/472/501/files/dong-ho-nam-iw-carnival-529g9-chinh-hang-9.jpg?v=1671793222320",
+      "qty": "1"
+    }
+  ],
+  "shippingAddress": {
+    "province": "Hưng Yên",
+    "district": "Huyện Văn Lâm",
+    "ward": "Xã Việt Hưng",
+    "detail": "123",
+    "name": "123",
+    "phone": "123"
+  },
+  "paymentMethod": "payOnline",
+  "totalPrice": 7000000,
+  "status": "pendding",
+  "name": "duy",
+  "user": {
+    "$oid": "6646d8b61415194c64769234"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:32:15.809Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-17T17:34:24.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471c39c94fcf0740d91ef6"
+  },
+  "order_code": "",
+  "to_ward_code": "231012",
+  "to_district_id": 2270,
+  "cancelOrder": true,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c67452a"
+      },
+      "name": "ĐỒNG HỒ NAM CHÍNH HÃNG IW CARNIVAL 529G9",
+      "salePrice": 7000000,
+      "image": "https://bizweb.dktcdn.net/100/472/501/files/dong-ho-nam-iw-carnival-529g9-chinh-hang-9.jpg?v=1671793222320",
+      "qty": "1"
+    }
+  ],
+  "shippingAddress": {
+    "province": "Hòa Bình",
+    "district": "Huyện Yên Thủy",
+    "ward": "Xã Yên Lạc",
+    "detail": "123",
+    "name": "123",
+    "phone": "0343575027"
+  },
+  "paymentMethod": "payOnline",
+  "totalPrice": 7000000,
+  "status": "pendding",
+  "name": "duy",
+  "user": {
+    "$oid": "6646d8b61415194c64769234"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:58:33.406Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-17T17:34:22.269Z"
+  },
+  "__v": 0
+}]

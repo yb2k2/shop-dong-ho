@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "634bfbeafd6eb54dc07800ff"
+  },
+  "name": "Tánh",
+  "email": "tanh@gmail.com",
+  "password": "admin",
+  "address": "",
+  "phone": "",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2022-10-16T12:41:14.751Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-16T12:41:14.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634abca384adde7b72590c59"
+  },
+  "name": "Thi",
+  "email": "Thi@gmail.com",
+  "password": "admin",
+  "address": "",
+  "phone": "",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2022-10-15T13:58:59.281Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-15T13:58:59.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "638866bbae7bc90ef81c5de5"
+  },
+  "name": "tanh",
+  "email": "tanhngoc4@gmail.com",
+  "password": "123",
+  "address": "",
+  "phone": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2022-12-01T08:32:59.287Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-01T08:32:59.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fdbbe6a7fb9c2984f18855"
+  },
+  "name": "huyvo",
+  "email": "nttduy2000@gmail.com",
+  "password": "123456789",
+  "address": "",
+  "phone": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-02-28T08:31:34.855Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-28T08:31:34.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6646d8b61415194c64769234"
+  },
+  "name": "duy",
+  "email": "duyphamnguyen76@gmail.com",
+  "password": "duy456",
+  "address": "",
+  "phone": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-05-17T04:10:30.212Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-17T04:10:30.212Z"
+  },
+  "__v": 0
+}]

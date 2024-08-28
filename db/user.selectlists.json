@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6375d4d7a00076094824d777"
+  },
+  "options": [],
+  "name": "Sản phẩm",
+  "property": "cấu hình",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d491a00076094824d773"
+  },
+  "options": [
+    "4GB",
+    "8GB",
+    "16GB",
+    "32GB",
+    "128Gb"
+  ],
+  "name": "Dòng đồng hồ",
+  "property": "ram",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d451a00076094824d772"
+  },
+  "options": [
+    "Đồng hồ Đồ chơi",
+    "Đồng hồ Luxury",
+    "Đồng hồ Thời trang"
+  ],
+  "name": "Loại đồng hồ ",
+  "property": "Loại đồng hồ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d4cea00076094824d776"
+  },
+  "options": [],
+  "name": "Màn Hình",
+  "property": "màn hình",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62e3b810aed7ff1f140fcc94"
+  },
+  "options": [
+    "5",
+    "4",
+    "3",
+    "2",
+    "1"
+  ],
+  "name": "TestRating",
+  "property": "rating",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6375d4a7a00076094824d774"
+  },
+  "options": [],
+  "name": "Camera",
+  "property": "cam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d4c0a00076094824d775"
+  },
+  "options": [],
+  "name": "Kiểu dáng",
+  "property": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d4dfa00076094824d778"
+  },
+  "options": [],
+  "name": "Tính năng nổi bật",
+  "property": "tnnb",
+  "__v": 0
+}]
